@@ -1,0 +1,3 @@
+﻿  binaryTree.cpp
+c:\users\christy\source\repos\binarytrees\binarytrees\binarytree.cpp(202): warning C4715: 'writeFile': not all control paths return a value
+  BinaryTrees.vcxproj -> C:\Users\Christy\source\repos\BinaryTrees\Debug\BinaryTrees.exe
